@@ -23,7 +23,7 @@ If you want a specific Laravel version just type: `l 5.1/routing` and press Ente
 Open ulauncher preferences window -> extensions -> add extension and paste the following url:
 
 ```
-http://github.com/mabasic/ulauncher-laravel
+https://github.com/mabasic/ulauncher-laravel
 ```
 
 ## Development
