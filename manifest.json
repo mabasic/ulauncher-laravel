@@ -1,0 +1,19 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Ulauncher Laravel Extension",
+    "description": "Ulauncher extension for quick access to the Laravel documentation.",
+    "developer_name": "Mario Bašić",
+    "icon": "icons/laravel.svg",
+    "options": {
+      "query_debounce": 0.05
+    },
+    "preferences": [
+      {
+        "id": "l_kw",
+        "type": "keyword",
+        "name": "Laravel Search",
+        "description": "Type in your query and press Enter...",
+        "default_value": "l"
+      }
+    ]
+  }
