@@ -14,7 +14,7 @@ From there you can type the slug of the documentation page you want to read like
 
 ![Default Laravel Version](./screenshots/default.png)
 
-If you want a specific Laravel version just type: `l 5.1/routing` and press Enter.
+If you want a specific Laravel version just type: `l 5.8/routing` and press Enter.
 
 ![Specific Laravel Version](./screenshots/specific.png)
 
