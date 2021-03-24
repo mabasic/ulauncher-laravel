@@ -4,6 +4,10 @@ Ulauncher extension for quick access to the Laravel documentation.
 
 [![Become a Patron](https://img.shields.io/badge/Become%20a-Patron-f96854.svg?style=for-the-badge)](https://www.patreon.com/laravelista)
 
+## Features
+
+- Algolia search thanks to [@subutux](https://github.com/subutux).
+
 ## Overview
 
 Once you install this extension, just start Ulauncher and type: `l`. That will start the extension.
@@ -53,6 +57,10 @@ VERBOSE=1 ULAUNCHER_WS_API=ws://127.0.0.1:5054/ulauncher-laravel PYTHONPATH=/usr
 Copy and run that command in another terminal window.
 
 Your extension should now be running. To see your changes, just Ctrl+C and re-run the last command.
+
+## Credits
+
+- Algolia search thanks to [@subutux](https://github.com/subutux).
 
 ## Laravelista Sponsors & Backers
 
